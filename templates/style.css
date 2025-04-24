@@ -1,1 +1,18 @@
 /* fill this code */
+
+body{
+    margin: 0px;
+    padding: 0%;
+}
+
+
+
+.topnav{
+    background-color: rgba(30, 26, 27, 0.86);
+    overflow: hidden;
+}
+
+.introductionContainer{
+
+    margin: 0vh 20%;
+}
